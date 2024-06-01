@@ -1,0 +1,50 @@
+/* Styles pour la card */
+.card {
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles pour le card-header */
+.card-header {
+    background-color: #007bff; /* Bleu primaire */
+    color: #fff; /* Texte blanc */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* Styles pour le card-body */
+.card-body {
+    padding: 20px;
+}
+
+/* Styles pour le text-center */
+.text-center {
+    text-align: center;
+}
+
+/* Styles pour les boutons */
+.btn {
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bleu primaire */
+    border-color: #007bff; /* Bordure bleue primaire */
+    color: #fff; /* Texte blanc */
+}
+
+.btn-secondary {
+    background-color: #6c757d; /* Gris foncé */
+    border-color: #6c757d; /* Bordure gris foncé */
+    color: #fff; /* Texte blanc */
+}
+
+.btn-primary:hover, .btn-secondary:hover {
+    opacity: 0.8;
+}
+.container {
+    margin-top: 100px; 
+}
